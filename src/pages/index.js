@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>Gatsby + Node.js (TypeScript) API</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>Eddy tiene super powers coding this page avec Gatsby</h1>
       <h2>
         Deployed with{' '}
         <a
