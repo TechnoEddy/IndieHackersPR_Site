@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>IndieHackersPR_Site</title>
       </Helmet>
       <h1>Eddy tiene super powers, coding this webpage, avec Gatsby</h1>
       <h2>
