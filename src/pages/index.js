@@ -25,14 +25,13 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-         Here
+          Here
         </a>
         !
       </h2>
       <p>
         
-        This project
-        show an empty camvas of incredeble ideas to show in order to represent the official website of Indie hackers   directories, <code>/src</code> for static content and <code>/api</code>{' '}
+        This project shows an empty canvas of incredeble ideas to show in order to represent the official website of Indie hackers directories.
        
        </p>
       <br />
