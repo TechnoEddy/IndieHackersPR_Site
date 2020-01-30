@@ -17,35 +17,24 @@ function Index() {
       <Helmet>
         <title>IndieHackersPR_Site</title>
       </Helmet>
-      <h1>Eddy tiene super powers, coding this webpage, avec Gatsby</h1>
+      <h1>Indie Hackers PR</h1>
       <h2>
-        Deployed with{' '}
+        Link Test click
         <a
           href="https://zeit.co/docs"
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+         Here
         </a>
         !
       </h2>
       <p>
-        <a
-          href="https://github.com/zeit/now-examples/blob/master/gatsby-functions"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          This project
-        </a>{' '}
-        is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
-        directories, <code>/src</code> for static content and <code>/api</code>{' '}
-        which contains a serverless{' '}
-        <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
-        <a href="/api/date">
-          <code>api/date</code> for the Date API with Node.js (TypeScript)
-        </a>
-        .
-      </p>
+        
+        This project
+        show an empty camvas of incredeble ideas to show in order to represent the official website of Indie hackers   directories, <code>/src</code> for static content and <code>/api</code>{' '}
+       
+       </p>
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
