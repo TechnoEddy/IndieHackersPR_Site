@@ -20,22 +20,14 @@ function Index() {
       <h1>Indie Hackers PR</h1>
       <h2>
         Link Test click
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Here
-        </a>
+        <a href="https://https://www.google.com.pr/">Here</a>
         !
       </h2>
       <p>
-        
         This project shows an empty canvas of incredeble ideas to show in order to represent the official website of Indie hackers directories.
-       
        </p>
       <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
+      <h2>The date is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
