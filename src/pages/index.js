@@ -15,20 +15,13 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>IndieHackersPR_Site</title>
+        <title>Indie Hackers PR</title>
       </Helmet>
-      <h1>Indie Hackers PR</h1>
+      <h1>Indie Hackers Puerto Rico</h1>
       <h2>
-        Link Test click
-        <a href="https://https://www.google.com.pr/">Here</a>
-        !
+        Comunidad de Slack
+      <a href="https://indiehackerspr.herokuapp.com/">Comunidad de Slack!</a>
       </h2>
-      <p>
-        This project shows an empty canvas of incredeble ideas to show in order to represent the official website of Indie hackers directories.
-       </p>
-      <br />
-      <h2>The date is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
 }
